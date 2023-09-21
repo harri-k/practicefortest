@@ -1,0 +1,77 @@
+.milestone {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+  .milestone1 {
+    color: purple;
+    background-color: #0074D9;
+  }
+
+  .milestone2 {
+    color: purple;
+    background-color: #2ECC40;
+  }
+
+  .milestone3 {
+    color: purple;
+    background-color: #FF4136;
+  }
+
+  .milestone4 {
+    color: purple;
+    background-color: #FF851B;
+  }
+
+  .milestone5 {
+    color: purple;
+    background-color: #B10DC9;
+  }
+  table, th, td { 
+    border:2px solid purple;
+  }
+  h1 {
+    color:crimson;
+    font-size:30px;
+  }
+  #amogus {
+    color:red;
+    font-style: italic;
+
+  }
+  body {
+    background-color: aqua;
+  }
+  ul {
+    color:purple;
+  }
+  img {
+    width:100px;
+    height:100px;
+  }
+  .center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.header{
+    text-align: center;
+    color:red;
+}
+div.header:hover{
+    color:skyblue;
+}
+.main{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+header{
+    font-size:40px;
+    font-family:fantasy;
+}
+div{
+    text-align:center
+    }
