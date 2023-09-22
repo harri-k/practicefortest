@@ -55,11 +55,11 @@
   margin-left: auto;
   margin-right: auto;
 }
-.header{
+.header1{
     text-align: center;
     color:red;
 }
-div.header:hover{
+div.header1:hover{
     color:skyblue;
 }
 .main{
@@ -68,7 +68,7 @@ div.header:hover{
 .footer{
     text-align: center;
 }
-header1{
+header{
     font-size:40px;
     font-family:fantasy;
 }
